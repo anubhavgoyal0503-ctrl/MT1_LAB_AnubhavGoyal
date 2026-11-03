@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 # MT1-LABEXAM — Library Book Management Web Application
+
 
 A college Full Stack Development lab project built exactly around the supplied practical requirements.
 
