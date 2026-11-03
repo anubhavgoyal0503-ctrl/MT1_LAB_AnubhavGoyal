@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MT1-LABEXAM — Library Book Management Web Application
 
 A college Full Stack Development lab project built exactly around the supplied practical requirements.
@@ -331,3 +332,6 @@ The Library Book Management Web Application is a Node.js project that demonstrat
 - [ ] Show invalid ID / 404 response.
 - [ ] Capture genuine screenshots.
 - [ ] Push the project to GitHub.
+=======
+# MT1_LAB_AnubhavGoyal
+>>>>>>> 80eb139d9464d664cd103ebeba830d9eef2a0147
